@@ -1,0 +1,7 @@
+body {
+  background-color: blueviolet;
+  margin: auto;
+}
+.cont {
+  display: flex;
+}

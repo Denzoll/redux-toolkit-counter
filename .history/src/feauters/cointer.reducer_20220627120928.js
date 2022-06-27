@@ -1,0 +1,1 @@
+const counterReducer = createReducer()

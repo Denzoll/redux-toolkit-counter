@@ -1,0 +1,8 @@
+body {
+  background-color: blueviolet;
+  margin: auto;
+  width: 90%;
+}
+.cont {
+  display: flex;
+}
